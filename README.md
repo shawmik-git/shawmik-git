@@ -1,46 +1,18 @@
-# Hi 👋, I'm Md Shawmik Rahman
-### 🔭 I build things with JavaScript, React, and Node.js
+<h1 align="center">Hi 👋, I'm Md Shawmik Rahman</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+- 📫 How to reach me **shawmik.rahman@gmail.com**
 
-## 👨💻 About Me  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/shawmik.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shawmik.r" height="30" width="40" /></a>
+</p>
 
-I'm an aspiring **Full-Stack Developer** passionate about building modern and user-friendly web applications.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-* 🌱 Currently learning and improving my skills in **JavaScript, TypeScript,**
-* 💻 Interested in **Full-Stack Development, APIs, Backend Development, and Data Analysis**
-* 🛠️ Learning by building real-world projects and improving my problem-solving skills
-* 🚀 Always exploring new technologies and modern development tools
-* 💬 Feel free to connect with me about **Web Development, Open Source, Gaming, and Tech**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r&show_icons=true&locale=en&layout=compact" alt="r" /></p>
 
-**Always learning. Always building. 🚀**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r&show_icons=true&locale=en" alt="r" /></p>
 
-
----
-
-## 🛠️ Tech Stack  
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🌐 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](shawmik.rahman@gmail.com)
-
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
-
----
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r&" alt="r" /></p>
