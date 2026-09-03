@@ -1,4 +1,4 @@
-# Hi 👋, I'm <Md Shwamik Rahman>  
+# Hi 👋, I'm Md Shawmik Rahman
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
@@ -44,4 +44,3 @@ I'm an aspiring **Full-Stack Developer** passionate about building modern and us
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
