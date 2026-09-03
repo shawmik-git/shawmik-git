@@ -65,15 +65,7 @@ I'm an aspiring **Full-Stack Developer** passionate about building modern, respo
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawmik-git&show_icons=true&theme=default" alt="Shawmik's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawmik-git&layout=compact&theme=default" alt="Most Used Languages" />
-</p>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawmik-git&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 👀 Profile Views
 
@@ -81,8 +73,5 @@ I'm an aspiring **Full-Stack Developer** passionate about building modern, respo
   <img src="https://komarev.com/ghpvc/?username=shawmik-git&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
----
 
-### ⭐ Thanks for visiting my profile!
 
-**Feel free to explore my repositories and connect with me. 🚀**
