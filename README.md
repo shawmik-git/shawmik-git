@@ -43,9 +43,10 @@ I'm an aspiring **Full-Stack Developer** passionate about building modern and us
 
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawmik-git&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawmik-git&layout=compact&theme=default) |
----
+## 📊 GitHub Stats
+
+![Shawmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawmik-git&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shawmik-git&layout=compact&theme=default)
 
 ![Profile views](https://komarev.com/ghpvc/?username=shawmik-git&style=flat-square)
